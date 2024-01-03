@@ -1,8 +1,8 @@
 # Airbnb Analysis Project
-## Overview
+# Overview
 Welcome to the Airbnb Analysis project! This repository aims to analyze the Airbnb dataset, providing insights into the short-term rental market. Whether you're a data enthusiast, researcher, or someone interested in the dynamics of Airbnb, this project offers valuable information.
 
-##Table of Contents
+# Table of Contents
 
 - Installation
 - Usage
@@ -12,7 +12,7 @@ Welcome to the Airbnb Analysis project! This repository aims to analyze the Airb
 - Contributing
 - License
 
-#Installation
+# Installation
 
 To get started with the Airbnb Analysis project, follow these steps:
 
@@ -23,7 +23,7 @@ Clone the repository to your local machine:
 
 Once the installation is complete, you can leverage the provided scripts and notebooks for analysis. The main entry point is the analysis.ipynb Jupyter notebook. This notebook walks you through the analysis process, step by step.
 
-#Running the Analysis
+# Running the Analysis
 
 - Open the analysis.ipynb notebook using Jupyter or any compatible environment.
 - Follow the instructions in the notebook to execute the analysis.
@@ -48,7 +48,7 @@ The core analysis is conducted in the analysis.ipynb Jupyter notebook. This note
 - Machine learning models (if applicable)
 - For an in-depth explanation of the methodologies and techniques applied, check the Analysis documentation.
 
-#Results
+# Results
 The results of the analysis, including visualizations and key insights, are available in the results/ directory. This section summarizes the findings and provides a snapshot of the most relevant outcomes.
 
 - Visualizations
@@ -61,7 +61,7 @@ The results of the analysis, including visualizations and key insights, are avai
 
 If you'd like to contribute to this project, please review the Contributing Guidelines. All contributions, bug reports, and feature requests are welcome!
 
-#License
+# License
 
 This project is licensed under the MIT License. Feel free to explore, use, and modify the code as per the license terms.
 
