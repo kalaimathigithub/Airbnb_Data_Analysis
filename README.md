@@ -68,6 +68,8 @@ This project is licensed under the MIT License. Feel free to explore, use, and m
 Customize the content based on your specific analysis, datasets, and project structure. Providing comprehensive information in the README file ensures that users and contributors can quickly understand, use, and contribute to your Airbnb Analysis project.
 
 
+Contact
 
+📧 Email: kalaichem998@gmail.com
 
 
